@@ -110,7 +110,7 @@ void remove(){
 }
 void apple(){
   strokeWeight(0);
-  fill(0,100,100);
+  fill(0,100,101);
   rect(applex*rate,appley*rate,rate,rate);
 }
 void keyPressed(){
